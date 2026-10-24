@@ -1,8 +1,7 @@
-# Shizuku
+# Aprost
 
-**雫 — A Galgame engine as simple as making a slideshow.**
+**Aprost — A Galgame engine as simple as making a slideshow.**
 
-[![shisuku](6F84DD62-195C-4FB7-B3EA-C06BD30394B6.png)]()
 [![Status](https://img.shields.io/badge/status-planning-blue)]()
 [![Release](https://img.shields.io/badge/release-2027-green)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
@@ -11,7 +10,7 @@
 
 ## What is this
 
-Shizuku is a **visual Galgame / visual novel engine**.
+Aprost is a **visual novel engine** for creating Galgames.
 
 The core idea is simple:
 
@@ -19,18 +18,17 @@ The core idea is simple:
 
 Drag in a background, a character sprite, a dialogue box. Connect slides to represent branches. Hit preview.
 
-No code. No complicated engine. No endless configuration.
+No code. No bloated engine. No endless configuration.
 
-Shizuku exists to make something that should be simple, simple again.
+Aprost exists to make something that should be simple, simple again.
 
 ---
 
-## Why "Shizuku"
+## Why "Aprost"
 
-**雫 (しずく)** means "waterdrop" in Japanese.
+**Aprost** is a coined word, derived from *Apricity* — the warmth of the winter sun.
 
-A drop of water is small and light, yet it can reflect the entire world.
-We want Shizuku to be the same — **lightweight, clear, unassuming, but capable of holding your story**.
+A faint warmth in the cold, a quiet light that makes things feel alive. That's what we want Aprost to be — **lightweight, clear, unassuming, yet capable of holding your story**.
 
 ---
 
@@ -84,7 +82,7 @@ Currently in the **design phase**, working on:
 
 ## Get Involved
 
-Shizuku is still in a very early stage.
+Aprost is still in a very early stage.
 
 If you'd like to:
 
@@ -97,7 +95,3 @@ If you'd like to:
 ## License
 
 MIT
-
----
-
-**Shizuku — Tell your story, drop by drop.**
