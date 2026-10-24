@@ -2,6 +2,7 @@
 
 **Aprost — A Galgame engine as simple as making a slideshow.**
 
+[![Aprost](IMG_7201.jpeg)]()
 [![Status](https://img.shields.io/badge/status-planning-blue)]()
 [![Release](https://img.shields.io/badge/release-2027-green)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
